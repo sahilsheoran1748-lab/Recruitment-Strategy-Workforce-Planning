@@ -1,0 +1,31 @@
+Candidate_ID,Role_Applied,Experience_Years,Technical_Skills,Problem_Solving,Communication,Teamwork,Adaptability,Values_Motivation,Final_Score,Recommendation
+1,Data Analyst,4,90,79,92,81,65,71,82.8,Recommended
+2,Cloud/DevOps Engineer,0,46,43,63,78,94,46,55.95,Not Selected
+3,Software Engineer,3,60,41,65,97,53,98,63.75,Consider
+4,Data Analyst,1,48,45,64,80,78,90,60.2,Consider
+5,Data Analyst,5,78,93,99,67,66,61,80.15,Recommended
+6,Cloud/DevOps Engineer,4,57,81,99,46,48,67,67.1,Consider
+7,Software Engineer,3,43,43,99,48,54,41,52.8,Not Selected
+8,Software Engineer,0,64,93,84,47,54,81,71.8,Consider
+9,Data Analyst,0,99,68,80,51,65,84,80.25,Recommended
+10,AI/ML Engineer,2,53,57,68,73,81,96,65.15,Consider
+11,Data Analyst,2,89,65,54,72,99,92,78.55,Recommended
+12,Data Analyst,6,97,83,84,87,52,45,81.55,Recommended
+13,Data Analyst,1,48,73,40,94,90,67,62.5,Consider
+14,Data Analyst,7,65,49,64,62,71,67,62.15,Consider
+15,Cloud/DevOps Engineer,3,92,75,46,63,78,83,76.5,Recommended
+16,Software Engineer,3,41,53,48,76,88,83,56.85,Not Selected
+17,Cloud/DevOps Engineer,7,59,70,63,74,91,59,66.5,Consider
+18,Cloud/DevOps Engineer,6,67,87,40,83,100,69,72.05,Consider
+19,Cloud/DevOps Engineer,5,86,54,83,79,71,50,73.35,Consider
+20,Data Analyst,5,99,47,47,61,43,97,71.2,Consider
+21,AI/ML Engineer,6,46,53,63,66,69,94,59.05,Not Selected
+22,Software Engineer,5,83,62,50,74,76,67,70.65,Consider
+23,AI/ML Engineer,2,100,99,90,40,62,64,84.9,Recommended
+24,Cloud/DevOps Engineer,3,47,96,56,74,78,78,67.05,Consider
+25,Cloud/DevOps Engineer,6,86,79,47,76,84,72,76.15,Recommended
+26,AI/ML Engineer,3,74,60,74,86,54,40,67.0,Consider
+27,AI/ML Engineer,7,53,55,74,53,82,96,63.75,Consider
+28,AI/ML Engineer,0,56,84,72,42,68,66,64.8,Consider
+29,Cloud/DevOps Engineer,2,75,57,98,40,75,96,73.45,Consider
+30,Cloud/DevOps Engineer,4,89,86,44,44,52,91,73.65,Consider

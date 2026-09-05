@@ -1,0 +1,121 @@
+Employee_ID,Department,Job_Role,Experience_Years,Performance_Score,Attrition_Risk
+1001,Engineering,Backend Developer,1,3.4,Low
+1002,Engineering,Backend Developer,4,4.9,Low
+1003,Engineering,Software Engineer,2,4.3,High
+1004,Engineering,Software Engineer,10,4.0,High
+1005,Engineering,Backend Developer,1,2.9,High
+1006,Engineering,Frontend Developer,0,2.9,Low
+1007,Engineering,Software Engineer,3,2.6,Low
+1008,Engineering,Backend Developer,9,4.7,Low
+1009,Engineering,Backend Developer,3,4.0,High
+1010,Engineering,Backend Developer,11,4.3,High
+1011,Engineering,Frontend Developer,3,2.6,Medium
+1012,Engineering,Backend Developer,4,4.9,Low
+1013,Engineering,Software Engineer,11,4.6,Medium
+1014,Engineering,Frontend Developer,4,3.0,Low
+1015,Engineering,Software Engineer,12,3.0,Medium
+1016,Engineering,Software Engineer,1,3.0,Medium
+1017,Engineering,Software Engineer,5,3.3,Medium
+1018,Engineering,Backend Developer,4,3.8,Low
+1019,Engineering,Backend Developer,7,3.6,High
+1020,Engineering,Software Engineer,6,3.2,Low
+1021,Engineering,Backend Developer,4,4.0,High
+1022,Engineering,Backend Developer,5,2.8,High
+1023,Engineering,Software Engineer,11,3.2,Low
+1024,Engineering,Software Engineer,10,3.4,Low
+1025,Engineering,Frontend Developer,1,3.6,Low
+1026,Engineering,Software Engineer,6,4.5,Medium
+1027,Engineering,Frontend Developer,10,3.0,Medium
+1028,Engineering,Software Engineer,5,3.8,Medium
+1029,Engineering,Software Engineer,10,4.0,Medium
+1030,Engineering,Backend Developer,10,2.6,High
+1031,Engineering,Software Engineer,9,4.0,High
+1032,Engineering,Software Engineer,8,2.9,High
+1033,Engineering,Software Engineer,2,2.7,Medium
+1034,Engineering,Frontend Developer,4,4.9,High
+1035,Engineering,Backend Developer,8,4.9,Low
+1036,Engineering,Backend Developer,5,4.5,Low
+1037,Engineering,Software Engineer,0,3.3,Medium
+1038,Engineering,Frontend Developer,4,2.7,Low
+1039,Engineering,Software Engineer,9,4.2,High
+1040,Engineering,Frontend Developer,3,3.6,High
+1041,Engineering,Frontend Developer,6,2.8,High
+1042,Engineering,Frontend Developer,2,3.7,Medium
+1043,Engineering,Software Engineer,3,2.6,High
+1044,Engineering,Backend Developer,8,4.8,Medium
+1045,Engineering,Backend Developer,9,3.1,Medium
+1046,Engineering,Backend Developer,6,4.2,Medium
+1047,Engineering,Software Engineer,2,3.3,High
+1048,Engineering,Frontend Developer,1,3.8,Low
+1049,Engineering,Software Engineer,2,3.9,High
+1050,Engineering,Software Engineer,12,3.0,High
+1051,Data & AI,AI/ML Engineer,9,4.9,Low
+1052,Data & AI,AI/ML Engineer,6,4.4,High
+1053,Data & AI,AI/ML Engineer,8,4.8,Medium
+1054,Data & AI,Data Engineer,0,4.7,High
+1055,Data & AI,Data Engineer,1,4.0,High
+1056,Data & AI,Data Engineer,12,4.8,Medium
+1057,Data & AI,Data Engineer,5,2.7,Low
+1058,Data & AI,AI/ML Engineer,6,3.0,Low
+1059,Data & AI,AI/ML Engineer,0,2.6,High
+1060,Data & AI,Data Engineer,4,3.3,High
+1061,Data & AI,Data Analyst,8,3.5,Low
+1062,Data & AI,Data Engineer,4,3.2,High
+1063,Data & AI,Data Engineer,9,4.6,Low
+1064,Data & AI,Data Analyst,5,3.4,Low
+1065,Data & AI,Data Engineer,12,3.2,High
+1066,Sales & Marketing,Sales Executive,9,3.9,Medium
+1067,Sales & Marketing,Marketing Executive,0,2.9,Low
+1068,Sales & Marketing,Marketing Executive,12,4.5,Medium
+1069,Sales & Marketing,Sales Executive,0,2.7,Low
+1070,Sales & Marketing,Sales Executive,1,5.0,High
+1071,Sales & Marketing,Marketing Executive,1,4.4,High
+1072,Sales & Marketing,Sales Executive,2,3.0,High
+1073,Sales & Marketing,Marketing Executive,8,2.5,Low
+1074,Sales & Marketing,Marketing Executive,8,4.5,High
+1075,Sales & Marketing,Marketing Executive,3,4.3,High
+1076,Sales & Marketing,Sales Executive,11,4.3,Medium
+1077,Sales & Marketing,Marketing Executive,10,4.4,High
+1078,Sales & Marketing,Marketing Executive,7,2.7,High
+1079,Sales & Marketing,Marketing Executive,1,3.4,Low
+1080,Sales & Marketing,Sales Executive,1,2.8,Medium
+1081,Sales & Marketing,Sales Executive,9,4.7,High
+1082,Sales & Marketing,Sales Executive,9,4.1,Low
+1083,Sales & Marketing,Sales Executive,1,3.3,High
+1084,Sales & Marketing,Sales Executive,3,2.7,Low
+1085,Sales & Marketing,Sales Executive,5,3.3,Low
+1086,Customer Success,Customer Success Executive,4,3.3,High
+1087,Customer Success,Support Specialist,3,4.3,High
+1088,Customer Success,Customer Success Executive,11,4.1,High
+1089,Customer Success,Support Specialist,3,4.7,Medium
+1090,Customer Success,Support Specialist,3,3.7,Low
+1091,Customer Success,Customer Success Executive,10,2.8,Medium
+1092,Customer Success,Support Specialist,6,4.3,Medium
+1093,Customer Success,Support Specialist,11,4.4,Low
+1094,Customer Success,Customer Success Executive,0,3.9,Medium
+1095,Customer Success,Support Specialist,12,4.4,Low
+1096,Customer Success,Customer Success Executive,3,3.7,Low
+1097,Customer Success,Support Specialist,2,3.8,Medium
+1098,Customer Success,Customer Success Executive,4,3.6,Medium
+1099,Customer Success,Customer Success Executive,1,2.6,Medium
+1100,Customer Success,Customer Success Executive,0,2.8,High
+1101,HR & Administration,Administrator,0,2.6,Low
+1102,HR & Administration,HR Executive,2,4.1,Medium
+1103,HR & Administration,Recruiter,7,3.3,Low
+1104,HR & Administration,Recruiter,0,3.8,Low
+1105,HR & Administration,Recruiter,0,4.8,Medium
+1106,HR & Administration,Recruiter,12,3.1,Medium
+1107,HR & Administration,Recruiter,6,3.5,High
+1108,HR & Administration,Administrator,12,4.4,High
+1109,HR & Administration,Administrator,11,3.1,Medium
+1110,HR & Administration,HR Executive,3,2.7,Medium
+1111,Finance & Operations,Financial Analyst,0,3.2,High
+1112,Finance & Operations,Financial Analyst,11,2.9,Medium
+1113,Finance & Operations,Financial Analyst,0,4.8,High
+1114,Finance & Operations,Operations Executive,8,4.5,High
+1115,Finance & Operations,Financial Analyst,0,4.1,High
+1116,Finance & Operations,Financial Analyst,2,4.7,Low
+1117,Finance & Operations,Financial Analyst,10,4.5,Low
+1118,Finance & Operations,Operations Executive,1,3.0,High
+1119,Finance & Operations,Financial Analyst,9,4.7,High
+1120,Finance & Operations,Financial Analyst,9,3.8,Low

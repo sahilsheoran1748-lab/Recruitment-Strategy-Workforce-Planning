@@ -1,0 +1,5 @@
+Quarter,Opening_Workforce,Planned_Hires,Planned_Exits,Closing_Workforce,Calculated_Closing,Forecast_Status
+Q1,120,14,2,132,132,Verified
+Q2,132,13,2,143,143,Verified
+Q3,143,11,1,153,153,Verified
+Q4,153,12,0,165,165,Verified
